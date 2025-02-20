@@ -4,13 +4,13 @@ export function About() {
       name: 'Shivam Singh',
       role: 'Lead Developer',
       photo: '/Profile photo.jpg',
-      description: 'FinTech developer with expertise in React and Node.js. Developed the website from scratch.'
+      description: 'Web developer specializing in React and Node.js. Developed the website from the ground up.'
     },
     {
       name: 'Heramb Inamke',
-      role: 'Frontend Developer',
+      role: 'Pixel Perfectionist & React Developer',
       photo: '/hem.jpg',
-      description: 'Fintech geek with a passion for creating web services. He contributed ideas for the website and helped in coding.'
+      description: 'Tech geek who loves crafting web services. Provided creative input and contributed to the website's codebase.'
     }
   ];
 
