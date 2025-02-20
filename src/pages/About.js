@@ -10,7 +10,7 @@ export function About() {
       name: 'Heramb Inamke',
       role: 'Frontend Developer',
       photo: '/hem.jpg',
-      description: 'Fintech geek with a passion for creating WEB-services. He has given ideas for the website.'
+      description: 'Fintech geek with a passion for creating web services. He contributed ideas for the website and helped in coding.'
     }
   ];
 
